@@ -17,13 +17,13 @@ Please see the [original README](https://github.com/udacity/sagemaker-deployment
 
 ```
 cd SageMaker
-git clone https://github.com/hjlopes/sagemaker-sentiment-analysis
+git clone https://github.com/NeeharikaGonuguntla/sentiment-analysis
 exit
 ```
 
 ## Web app final result
 
-The final project will be executed in a simple html page which can be deployed anywhere. 
+I created a simple webapp that is can be used to analyse if the given review is positive or negative.
 
 You will see the following:
 
